@@ -36,16 +36,16 @@
             <mxPoint x="265" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-9" value="2. ligolo_n g Agent&lt;div&gt;svc_web session via P0wnyshell&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-9" value="2. ligolo_n g Agent&lt;div&gt;svc_web session via P0wnyshell&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="175" y="160" as="sourcePoint" />
+            <mxPoint x="265" y="167" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="190" y="180" />
+              <mxPoint x="190" y="167" />
             </Array>
-            <mxPoint x="100" y="160" as="targetPoint" />
+            <mxPoint x="95" y="167" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-10" value="Webdav Server" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-10" value="Webdav Server" style="html=1;verticalAlign=bottom;endArrow=open;dashed=0;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="175" y="235" as="targetPoint" />
             <Array as="points">
@@ -65,10 +65,14 @@
         <mxCell id="m_4LmyvwkYxFZ56K0HKt-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="m_4LmyvwkYxFZ56K0HKt-1">
           <mxGeometry x="45" y="80" width="10" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="m_4LmyvwkYxFZ56K0HKt-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="95" y="220" as="sourcePoint" />
-            <mxPoint x="445" y="220" as="targetPoint" />
+        <mxCell id="m_4LmyvwkYxFZ56K0HKt-9" value="3. ping 192.168.100.100" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="95" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="195" y="200" />
+            </Array>
+            <mxPoint x="445" y="200" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
